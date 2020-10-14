@@ -29,7 +29,7 @@ as a player I want a random cartoon fact given by the llama if I win so I can le
 as a player I want a random animal fact given by the all forgiving Fire Breathing Llama if I lose so I can move forward with new knowledge
 as a player I want to see fire from the llamas mouth if i lose so I can know that I can do better
 
-/////Technologies Used///
+Technologies Used:
 html/css/javascript/audio mp3
 
 
