@@ -1,0 +1,74 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Chilanka&display=swap');
+
+h1 {
+    color: 	#FFFF33;
+    font-size: 48px;
+    text-align: center;
+    font-family: 'Chilanka', cursive, sans-serif;
+}
+h2, h3 {
+    color: 	#FFFF33;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Chilanka', cursive, sans-serif;
+}
+body {
+    background-color: 	#DC143C;
+}
+h3  {
+    text-align: left;
+    font-size: 24px;
+    color: 	#FFFF33;
+    font-family: 'Chilanka', cursive, sans-serif;
+}
+h4  {
+    text-align: center;
+    font-size: 24px;
+    color: 	#FFFF33;
+    font-family: 'Chilanka', cursive, sans-serif;
+    top: 
+}
+
+button { 
+    text-align: center;
+    font-size: 54px;
+    color: 	#FFFF33;
+    background-color: 	#DC143C;
+    border-style: solid;
+    border-color: goldenrod;
+    font-family: 'Chilanka', cursive, sans-serif;
+}
+#dashedWord {
+    color: 	#FFFF33;
+    text-align: center;
+    margin: 0 0 30px 0;
+    white-space: pre;
+   letter-spacing: 10px;
+   font-size: 90px;
+
+}
+#alreadyGuessed {
+    color: 	#FFFF33;
+    text-align: left;
+    margin: 0 0 30px 0;
+    white-space: pre;
+    
+
+}
+#guessesLeft {
+    color: 	#FFFF33;
+    text-align: left;
+    margin: 0 0 30px 0;
+    white-space: pre;
+
+}
+
+/* img {
+  height: 100px;
+   left: 55%;
+   position: fixed;
+   top: 40%;
+   width: 150px;
+} */
